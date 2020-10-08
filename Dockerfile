@@ -1,4 +1,4 @@
-FROM techknowlogick/xgo:go-1.14.x
+FROM techknowlogick/xgo:go-1.15.x
 
 ENV LIBUSB_VERSION 1.0.23
 ENV PATH /go/bin/:$PATH
